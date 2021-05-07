@@ -1,4 +1,3 @@
 # TODO
 
-- un-change code you shouldn't have changed
-- fix sqrt runtime error
+- add pipeline introspection where it could be sensible
