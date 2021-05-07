@@ -16,6 +16,7 @@ python-fire = "*"
 matplotlib = "*"
 networkx = "*"
 pyvis = "*"
+seaborn = "*"
 
 [dev-packages]
 
